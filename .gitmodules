@@ -1,0 +1,6 @@
+[submodule "Kamazon"]
+	path = Kamazon
+	url = https://github.com/kamjohn777/Kamazon.git
+[submodule "splash-was-final"]
+	path = splash-was-final
+	url = https://github.com/kamjohn777/splash-was-final.git
