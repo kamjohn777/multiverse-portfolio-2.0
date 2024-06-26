@@ -4,3 +4,6 @@
 [submodule "splash-was-final"]
 	path = splash-was-final
 	url = https://github.com/kamjohn777/splash-was-final.git
+[submodule "inventory app"]
+	path = inventory app
+	url = https://github.com/kamjohn777/inventory-app-forked.git
