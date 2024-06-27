@@ -1,0 +1,97 @@
+.header {
+  height: 52px;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  padding: 3px;
+}
+
+.header_search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+
+.header_logo {
+  width: 163px;
+  height: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+}
+
+.header_searchInput {
+  height: 12px;
+  padding: 10px;
+  border: none;
+  width: 90%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+  background-color: rgb(147, 66, 218);
+  font-size: 32px;
+}
+
+.header_nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header_option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+.header_span_optionsLineOne {
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.header_optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header_basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#shopping-cart-symbol {
+  background-color: transparent;
+  color: white;
+}
+
+.header_address {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.header_span_addressLineOne {
+  color: white;
+  font-size: 12px;
+}
+
+.sub-span-div-for-lineTwo {
+  display: flex;
+  gap: 5px;
+}
+
+.sub-span-div-for-lineTwo span {
+  color: white;
+}
+
+#id-address-span {
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+}
